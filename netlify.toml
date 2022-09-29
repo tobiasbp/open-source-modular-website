@@ -1,6 +1,6 @@
 [build]
   command = "hugo --gc --minify"
-  publish = "open-source-modular/public/"
+  publish = "public/"
   base = "open-source-modular/"
 
 [build.environment]
