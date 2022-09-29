@@ -1,4 +1,5 @@
-baseurl = "https://www.open-source-modular.org"
+#baseurl = "https://www.open-source-modular.org"
+baseurl = "https://grand-sundae-ec2188.netlify.app"
 DefaultContentLanguage = "en"
 title = "www.open-source-modular.org    "
 theme = "beautifulhugo"
