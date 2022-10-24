@@ -45,7 +45,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   discord = "invite code (https://discord.gg/XXXXXXX)"
-  github = "username"
+  github = "open-source-modular"
   #name = "Some Person"
   #website = "yourwebsite.com"
   #email = "youremail@domain.com"
